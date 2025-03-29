@@ -1,0 +1,18 @@
+2025-03-29 17:32:22 [INFO]: MongoDB connected successfully {"metadata":{}}
+2025-03-29 17:32:22 [INFO]: MongoDB connected successfully {"metadata":{}}
+2025-03-29 17:32:22 [INFO]: Server running on port 5009 {"metadata":{}}
+2025-03-29 17:35:01 [INFO]: Incoming request: POST /api/auth/register {"metadata":{}}
+2025-03-29 17:35:01 [INFO]: Registration request received for email: malu@gamil.com {"metadata":{}}
+2025-03-29 17:35:01 [INFO]: Creating new company: malu {"metadata":{}}
+2025-03-29 17:35:01 [INFO]: Company created successfully with ID: 67e7e1ed277f00662b126334 {"metadata":{}}
+2025-03-29 17:35:01 [INFO]: Creating new user for email: malu@gamil.com {"metadata":{}}
+2025-03-29 17:35:01 [INFO]: User pre-save hook running for: malu@gamil.com {"metadata":{}}
+2025-03-29 17:35:01 [INFO]: Hashing password {"metadata":{}}
+2025-03-29 17:35:01 [INFO]: Password hashed successfully {"metadata":{}}
+2025-03-29 17:35:01 [INFO]: User created successfully with ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 17:35:01 [INFO]: Registration completed successfully for user: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 17:35:26 [INFO]: Incoming request: POST /api/auth/login {"metadata":{}}
+2025-03-29 17:35:26 [INFO]: Login attempt for email: malu@gamil.com {"metadata":{}}
+2025-03-29 17:35:26 [INFO]: Comparing passwords {"metadata":{}}
+2025-03-29 17:35:26 [INFO]: Password match result: true {"metadata":{}}
+2025-03-29 17:35:26 [INFO]: Login successful for user: 67e7e1ed277f00662b126336 {"metadata":{}}

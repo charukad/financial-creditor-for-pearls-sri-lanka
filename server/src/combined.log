@@ -1,0 +1,11 @@
+2025-03-29 14:18:06 [32minfo[39m: Server running in undefined mode on port 5009
+2025-03-29 14:18:36 [31merror[39m: MongoDB connection error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-29 15:52:49 [32minfo[39m: Server running in undefined mode on port 5009
+2025-03-29 15:53:19 [31merror[39m: MongoDB connection error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-29 15:56:18 [32minfo[39m: Server running in undefined mode on port 5009
+2025-03-29 15:56:48 [31merror[39m: MongoDB connection error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-29 15:59:59 [32minfo[39m: Server running in undefined mode on port 5009
+2025-03-29 15:59:59 [32minfo[39m: MongoDB connected successfully
+2025-03-29 16:35:53 [32minfo[39m: Server running in undefined mode on port 5009
+2025-03-29 16:35:53 [32minfo[39m: MongoDB connected successfully
+2025-03-29 17:07:04 [32minfo[39m: MongoDB connected successfully

@@ -1,0 +1,3 @@
+2025-03-29 14:18:36 [31merror[39m: MongoDB connection error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-29 15:53:19 [31merror[39m: MongoDB connection error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-29 15:56:48 [31merror[39m: MongoDB connection error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
