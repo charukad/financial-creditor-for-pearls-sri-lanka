@@ -152,6 +152,7 @@ const userRoutes = require("./user.routes");
 const dataRoutes = require("./data.routes");
 const forecastRoutes = require("./forecast.routes");
 const reportRoutes = require("./report.routes");
+const economicRoutes = require("./economic.routes");
 
 // Register routes
 router.use("/auth", authRoutes);
@@ -159,6 +160,7 @@ router.use("/users", userRoutes);
 router.use("/data", dataRoutes);
 router.use("/forecasts", forecastRoutes);
 router.use("/reports", reportRoutes);
+router.use("/economic", economicRoutes);
 
 // Add error handling for routes
 router.use((req, res, next) => {

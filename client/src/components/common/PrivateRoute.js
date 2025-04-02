@@ -1,21 +1,28 @@
+// src/components/common/PrivateRoute.js
+
 import React from "react";
 import { Navigate } from "react-router-dom";
-import useAuth from "../../hooks/useAuth";
+import { useAuth } from "../../hooks/useAuth";
 
 const PrivateRoute = ({ children }) => {
-  const { isAuthenticated, loading } = useAuth();
+  const { user, loading } = useAuth();
 
-  // Show loading indicator while checking authentication
+  // If auth is loading, show a loading indicator
   if (loading) {
-    return <div>Loading...</div>;
+    return (
+      <div className="loading-container">
+        <div className="loading-spinner"></div>
+        <p>Loading...</p>
+      </div>
+    );
   }
 
-  // Redirect to login if not authenticated
-  if (!isAuthenticated) {
-    return <Navigate to="/login" />;
+  // If user is not authenticated, redirect to login
+  if (!user) {
+    return <Navigate to="/login" replace />;
   }
 
-  // Render children if authenticated
+  // If user is authenticated, render the protected component
   return children;
 };
 

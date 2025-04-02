@@ -196,3 +196,297 @@
   background-color: #fee2e2;
   color: #b91c1c;
 }
+
+/* LiveData Component Styles - Add to Dashboard.css */
+
+.live-data-container {
+  padding: 20px;
+  background-color: #f5f7fa;
+}
+
+.live-data-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.refresh-controls {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+/* Continuing LiveData Component Styles - Add to Dashboard.css */
+
+.refresh-button {
+  background-color: #4a6cf7;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.refresh-button:hover {
+  background-color: #3a5bd9;
+}
+
+.refresh-button:disabled {
+  background-color: #a0aec0;
+  cursor: not-allowed;
+}
+
+.refresh-rate {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.refresh-select {
+  padding: 6px;
+  border-radius: 4px;
+  border: 1px solid #cbd5e0;
+  background-color: white;
+}
+
+.last-updated {
+  color: #718096;
+  font-size: 0.9rem;
+}
+
+.live-data-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.data-card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  transition: transform 0.3s, box-shadow 0.3s;
+  height: 100%;
+}
+
+.data-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.data-card h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #2d3748;
+  font-size: 1.2rem;
+  font-weight: 600;
+  border-bottom: 2px solid #f0f2f5;
+  padding-bottom: 10px;
+}
+
+.card-content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.current-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #2d3748;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.trend-indicator {
+  font-size: 1.2rem;
+  font-weight: 700;
+  display: inline-block;
+}
+
+.positive {
+  color: #38a169;
+}
+
+.negative {
+  color: #e53e3e;
+}
+
+.neutral {
+  color: #718096;
+}
+
+.indicator-details {
+  margin-bottom: 15px;
+}
+
+.indicator-details p {
+  margin: 5px 0;
+  color: #718096;
+  font-size: 0.9rem;
+}
+
+.chart-container {
+  margin-top: auto;
+  padding-top: 15px;
+  border-top: 1px solid #f0f2f5;
+}
+
+.loading-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  color: #a0aec0;
+  font-style: italic;
+}
+
+.stock-indices-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+.stock-index-item {
+  background-color: #f7fafc;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.index-name {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.index-value {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 5px 0;
+}
+
+.index-change {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.export-stats-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 15px;
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: #718096;
+  margin-bottom: 5px;
+}
+
+.stat-value {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.currency-comparison-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+.currency-item {
+  background-color: #f7fafc;
+  padding: 10px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.currency-name {
+  font-size: 0.9rem;
+  color: #718096;
+  margin-bottom: 5px;
+}
+
+.currency-value {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.economic-impact-section {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.economic-impact-section h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #2d3748;
+  font-size: 1.2rem;
+  font-weight: 600;
+  border-bottom: 2px solid #f0f2f5;
+  padding-bottom: 10px;
+}
+
+.impact-content p {
+  margin: 12px 0;
+  line-height: 1.6;
+  color: #4a5568;
+}
+
+.impact-content strong {
+  color: #2d3748;
+}
+
+/* Highlight for the Live Data link in sidebar */
+.highlight-link {
+  display: flex;
+  align-items: center;
+  color: #4a6cf7;
+  font-weight: 600;
+  position: relative;
+}
+
+.highlight-link::before {
+  content: "NEW";
+  font-size: 0.6rem;
+  background-color: #ff5e1a;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 4px;
+  position: absolute;
+  right: 0;
+  top: -10px;
+}
+
+/* Responsive adjustments for mobile devices */
+@media (max-width: 768px) {
+  .live-data-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+  }
+
+  .refresh-controls {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .live-data-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .export-stats-content,
+  .currency-comparison-grid,
+  .stock-indices-grid {
+    grid-template-columns: 1fr;
+  }
+}

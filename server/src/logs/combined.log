@@ -16,3 +16,534 @@
 2025-03-29 17:35:26 [INFO]: Comparing passwords {"metadata":{}}
 2025-03-29 17:35:26 [INFO]: Password match result: true {"metadata":{}}
 2025-03-29 17:35:26 [INFO]: Login successful for user: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 17:44:39 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 17:44:39 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:39 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 17:44:39 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:42 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 17:44:42 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 17:44:42 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:42 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 17:44:42 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:42 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 17:44:43 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 17:44:43 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:43 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 17:44:43 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:50 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 17:44:50 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 17:44:50 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 17:44:51 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 17:44:51 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 17:44:51 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:51 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 17:44:51 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:45:09 [INFO]: Incoming request: POST /api/auth/login {"metadata":{}}
+2025-03-29 17:45:09 [INFO]: Login attempt for email: oaijgasd@gmail.com {"metadata":{}}
+2025-03-29 17:45:09 [WARN]: Login failed: No user found with email oaijgasd@gmail.com {"metadata":{}}
+2025-03-29 17:45:27 [INFO]: Incoming request: POST /api/auth/login {"metadata":{}}
+2025-03-29 17:45:27 [INFO]: Login attempt for email: malu@gamil.com {"metadata":{}}
+2025-03-29 17:45:27 [INFO]: Comparing passwords {"metadata":{}}
+2025-03-29 17:45:27 [INFO]: Password match result: true {"metadata":{}}
+2025-03-29 17:45:27 [INFO]: Login successful for user: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:08:13 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:13 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:08:13 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:13 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:13 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:13 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:08:15 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 18:08:15 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:08:15 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 18:08:15 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:08:15 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:15 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:15 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:15 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:29 [INFO]: Incoming request: POST /api/auth/login {"metadata":{}}
+2025-03-29 18:08:29 [INFO]: Login attempt for email: malu@gamil.com {"metadata":{}}
+2025-03-29 18:08:29 [INFO]: Comparing passwords {"metadata":{}}
+2025-03-29 18:08:29 [INFO]: Password match result: true {"metadata":{}}
+2025-03-29 18:08:29 [INFO]: Login successful for user: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:08:32 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:32 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:08:32 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:32 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:32 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:32 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:08:34 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 18:08:34 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:08:34 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 18:08:34 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:08:34 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:34 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:34 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:34 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:37 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:37 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:08:37 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:37 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:37 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:08:37 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:50 [INFO]: Incoming request: POST /api/auth/login {"metadata":{}}
+2025-03-29 18:08:50 [INFO]: Login attempt for email: malu@gamil.com {"metadata":{}}
+2025-03-29 18:08:50 [INFO]: Comparing passwords {"metadata":{}}
+2025-03-29 18:08:50 [INFO]: Password match result: true {"metadata":{}}
+2025-03-29 18:08:50 [INFO]: Login successful for user: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:08:52 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:52 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:08:52 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:52 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:52 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:08:52 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:54 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 18:08:54 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:08:54 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 18:08:54 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:08:54 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:54 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:54 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:08:54 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:21 [INFO]: Incoming request: POST /api/auth/login {"metadata":{}}
+2025-03-29 18:09:21 [INFO]: Login attempt for email: malu@gamil.com {"metadata":{}}
+2025-03-29 18:09:21 [INFO]: Comparing passwords {"metadata":{}}
+2025-03-29 18:09:21 [INFO]: Password match result: true {"metadata":{}}
+2025-03-29 18:09:21 [INFO]: Login successful for user: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:09:26 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:26 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:26 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:26 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:28 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:28 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:28 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:09:28 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:28 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:28 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:09:28 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:28 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:28 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:28 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:34 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 18:09:34 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:09:34 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 18:09:34 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:09:35 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:35 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:35 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:35 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:45 [INFO]: Incoming request: POST /api/auth/login {"metadata":{}}
+2025-03-29 18:09:45 [INFO]: Login attempt for email: malu@gamil.com {"metadata":{}}
+2025-03-29 18:09:45 [INFO]: Comparing passwords {"metadata":{}}
+2025-03-29 18:09:45 [INFO]: Password match result: true {"metadata":{}}
+2025-03-29 18:09:45 [INFO]: Login successful for user: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:09:47 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:47 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:09:47 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:47 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:47 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:47 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 18:09:51 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:51 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:51 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 18:09:51 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:37:28 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 18:37:29 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:37:29 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 18:37:29 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 18:39:37 [ERROR]: uncaughtException: Cannot find module 'axios'
+Require stack:
+- /Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/index.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/index.js
+Error: Cannot find module 'axios'
+Require stack:
+- /Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/index.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js:1:15)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32) {"metadata":{"error":{"code":"MODULE_NOT_FOUND","requireStack":["/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js","/Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js","/Users/dasuncharuka/Desktop/malupro1/server/src/routes/index.js","/Users/dasuncharuka/Desktop/malupro1/server/src/index.js"]},"stack":"Error: Cannot find module 'axios'\nRequire stack:\n- /Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js\n- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js\n- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/index.js\n- /Users/dasuncharuka/Desktop/malupro1/server/src/index.js\n    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)\n    at Function._load (node:internal/modules/cjs/loader:1070:27)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Module.require (node:internal/modules/cjs/loader:1335:12)\n    at require (node:internal/modules/helpers:136:16)\n    at Object.<anonymous> (/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js:1:15)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object..js (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)","exception":true,"date":"Sat Mar 29 2025 18:39:37 GMT+0530 (India Standard Time)","process":{"pid":37111,"uid":501,"gid":20,"cwd":"/Users/dasuncharuka/Desktop/malupro1/server/src","execPath":"/Users/dasuncharuka/.nvm/versions/node/v22.13.1/bin/node","version":"v22.13.1","argv":["/Users/dasuncharuka/.nvm/versions/node/v22.13.1/bin/node","/Users/dasuncharuka/Desktop/malupro1/server/src/index.js"],"memoryUsage":{"rss":85442560,"heapTotal":36470784,"heapUsed":23766104,"external":20396463,"arrayBuffers":18262287}},"os":{"loadavg":[3.421875,3.2265625,3.3896484375],"uptime":9656},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1244,"method":"_resolveFilename","native":false},{"column":27,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1070,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1335,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":136,"method":null,"native":false},{"column":15,"file":"/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js","function":null,"line":1,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Object..js","line":1699,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false}]}}
+2025-03-29 20:18:50 [INFO]: MongoDB connected successfully {"metadata":{}}
+2025-03-29 20:18:50 [INFO]: MongoDB connected successfully {"metadata":{}}
+2025-03-29 20:18:50 [INFO]: Server running on port 5009 {"metadata":{}}
+2025-03-29 20:19:22 [INFO]: MongoDB connected successfully {"metadata":{}}
+2025-03-29 20:19:22 [INFO]: MongoDB connected successfully {"metadata":{}}
+2025-03-29 20:19:22 [INFO]: Server running on port 5009 {"metadata":{}}
+2025-03-29 20:20:54 [INFO]: Incoming request: POST /api/auth/login {"metadata":{}}
+2025-03-29 20:20:54 [INFO]: Login attempt for email: malu@gamil.com {"metadata":{}}
+2025-03-29 20:20:54 [INFO]: Comparing passwords {"metadata":{}}
+2025-03-29 20:20:54 [INFO]: Password match result: true {"metadata":{}}
+2025-03-29 20:20:54 [INFO]: Login successful for user: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:21:00 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:21:00 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:00 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:21:00 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Incoming request: GET /api/economic/indicators {"metadata":{}}
+2025-03-29 20:21:03 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Incoming request: GET /api/economic/exchange-rates {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Fetching economic indicators {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Economic indicators fetched successfully {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Fetching exchange rates from external API {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Exchange rates fetched successfully {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Incoming request: GET /api/economic/indicators {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Fetching economic indicators {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Economic indicators fetched successfully {"metadata":{}}
+2025-03-29 20:21:03 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Incoming request: GET /api/economic/exchange-rates {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Fetching exchange rates from external API {"metadata":{}}
+2025-03-29 20:21:03 [INFO]: Exchange rates fetched successfully {"metadata":{}}
+2025-03-29 20:21:05 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:21:05 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:05 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:21:05 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:14 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:21:14 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:21:14 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:21:14 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:21:14 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:21:14 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:14 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:21:14 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:26 [INFO]: Incoming request: POST /api/auth/login {"metadata":{}}
+2025-03-29 20:21:26 [INFO]: Login attempt for email: malu@gamil.com {"metadata":{}}
+2025-03-29 20:21:26 [INFO]: Comparing passwords {"metadata":{}}
+2025-03-29 20:21:26 [INFO]: Password match result: true {"metadata":{}}
+2025-03-29 20:21:26 [INFO]: Login successful for user: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:21:31 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:21:31 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:21:31 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:21:31 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:21:44 [INFO]: Incoming request: POST /api/auth/login {"metadata":{}}
+2025-03-29 20:21:44 [INFO]: Login attempt for email: malu@gamil.com {"metadata":{}}
+2025-03-29 20:21:44 [INFO]: Comparing passwords {"metadata":{}}
+2025-03-29 20:21:44 [INFO]: Password match result: true {"metadata":{}}
+2025-03-29 20:21:44 [INFO]: Login successful for user: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:45:59 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:45:59 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:45:59 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:45:59 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:45:59 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:45:59 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:45:59 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:45:59 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:47:30 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:47:30 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:50:21 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:50:21 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:50:21 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:50:21 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:50:21 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:50:21 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:50:21 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:50:21 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:50:45 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:50:45 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:50:45 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:50:45 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:50:45 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:50:45 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:50:45 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:50:45 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:54:57 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:54:57 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:54:57 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:54:57 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:54:57 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:54:57 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:54:57 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:54:57 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Incoming request: GET /api/economic/exchange-rates {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 20:55:10 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Incoming request: GET /api/economic/indicators {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Fetching exchange rates from external API {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Exchange rates fetched successfully {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Fetching economic indicators {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Economic indicators fetched successfully {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Incoming request: GET /api/economic/exchange-rates {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Incoming request: GET /api/economic/indicators {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Fetching exchange rates from external API {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Exchange rates fetched successfully {"metadata":{}}
+2025-03-29 20:55:10 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Fetching economic indicators {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Economic indicators fetched successfully {"metadata":{}}
+2025-03-29 20:55:10 [INFO]: Incoming request: GET /api/forecasts {"metadata":{}}
+2025-03-29 20:55:14 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:55:14 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:55:14 [INFO]: Incoming request: GET /api/data {"metadata":{}}
+2025-03-29 20:55:14 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:55:15 [INFO]: Incoming request: GET /api/economic/historical?startDate=2025-02-27T15:25:15.660Z&endDate=2025-03-29T15:25:15.660Z {"metadata":{}}
+2025-03-29 20:55:15 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 20:55:15 [WARN]: Route not found: GET /api/economic/historical?startDate=2025-02-27T15:25:15.660Z&endDate=2025-03-29T15:25:15.660Z {"metadata":{}}
+2025-03-29 20:55:15 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 20:55:15 [INFO]: Incoming request: GET /api/economic/historical?startDate=2025-02-27T15:25:15.661Z&endDate=2025-03-29T15:25:15.661Z {"metadata":{}}
+2025-03-29 20:55:15 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 20:55:15 [WARN]: Route not found: GET /api/economic/historical?startDate=2025-02-27T15:25:15.661Z&endDate=2025-03-29T15:25:15.661Z {"metadata":{}}
+2025-03-29 20:55:15 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 20:55:43 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:55:43 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:55:43 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:55:43 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:55:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 20:55:43 [INFO]: Incoming request: GET /api/economic/historical?startDate=2025-02-27T15:25:43.949Z&endDate=2025-03-29T15:25:43.949Z {"metadata":{}}
+2025-03-29 20:55:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 20:55:43 [WARN]: Route not found: GET /api/economic/historical?startDate=2025-02-27T15:25:43.949Z&endDate=2025-03-29T15:25:43.949Z {"metadata":{}}
+2025-03-29 20:55:43 [INFO]: Incoming request: GET /api/economic/historical?startDate=2025-02-27T15:25:43.950Z&endDate=2025-03-29T15:25:43.950Z {"metadata":{}}
+2025-03-29 20:55:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 20:55:43 [WARN]: Route not found: GET /api/economic/historical?startDate=2025-02-27T15:25:43.950Z&endDate=2025-03-29T15:25:43.950Z {"metadata":{}}
+2025-03-29 20:55:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 20:58:26 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:58:26 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:58:26 [INFO]: Incoming request: GET /api/auth/me {"metadata":{}}
+2025-03-29 20:58:26 [INFO]: Get current user request for ID: 67e7e1ed277f00662b126336 {"metadata":{}}
+2025-03-29 20:58:26 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 20:58:26 [INFO]: Incoming request: GET /api/economic/historical?startDate=2025-02-27T15:28:26.855Z&endDate=2025-03-29T15:28:26.855Z {"metadata":{}}
+2025-03-29 20:58:26 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 20:58:26 [WARN]: Route not found: GET /api/economic/historical?startDate=2025-02-27T15:28:26.855Z&endDate=2025-03-29T15:28:26.855Z {"metadata":{}}
+2025-03-29 20:58:26 [INFO]: Incoming request: GET /api/economic/historical?startDate=2025-02-27T15:28:26.856Z&endDate=2025-03-29T15:28:26.856Z {"metadata":{}}
+2025-03-29 20:58:26 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 20:58:26 [WARN]: Route not found: GET /api/economic/historical?startDate=2025-02-27T15:28:26.856Z&endDate=2025-03-29T15:28:26.856Z {"metadata":{}}
+2025-03-29 20:58:26 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:03:26 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:03:26 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:03:26 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:03:26 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:05:36 [ERROR]: uncaughtException: Invalid or unexpected token
+/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js:378
+          description: 'New regulations affecting imports from Commonwealth countr
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1512:18)
+    at Module._compile (node:internal/modules/cjs/loader:1534:20)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (/Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js:4:28) {"metadata":{"error":{},"stack":"/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js:378\n          description: 'New regulations affecting imports from Commonwealth countr\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\nSyntaxError: Invalid or unexpected token\n    at wrapSafe (node:internal/modules/cjs/loader:1512:18)\n    at Module._compile (node:internal/modules/cjs/loader:1534:20)\n    at Object..js (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Module.require (node:internal/modules/cjs/loader:1335:12)\n    at require (node:internal/modules/helpers:136:16)\n    at Object.<anonymous> (/Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js:4:28)","exception":true,"date":"Sat Mar 29 2025 21:05:36 GMT+0530 (India Standard Time)","process":{"pid":54632,"uid":501,"gid":20,"cwd":"/Users/dasuncharuka/Desktop/malupro1/server/src","execPath":"/Users/dasuncharuka/.nvm/versions/node/v22.13.1/bin/node","version":"v22.13.1","argv":["/Users/dasuncharuka/.nvm/versions/node/v22.13.1/bin/node","/Users/dasuncharuka/Desktop/malupro1/server/src/index.js"],"memoryUsage":{"rss":85049344,"heapTotal":36470784,"heapUsed":24066168,"external":20396463,"arrayBuffers":18262287}},"os":{"loadavg":[3.4189453125,2.94873046875,3.12353515625],"uptime":18415},"trace":[{"column":18,"file":"node:internal/modules/cjs/loader","function":"wrapSafe","line":1512,"method":null,"native":false},{"column":20,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1534,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Object..js","line":1699,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1335,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":136,"method":null,"native":false},{"column":28,"file":"/Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js","function":null,"line":4,"method":null,"native":false}]}}
+2025-03-29 21:08:26 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:08:26 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:08:26 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:08:26 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:13:26 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:13:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:13:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:13:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:18:26 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:18:26 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:18:26 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:18:26 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:26:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:26:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:26:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:26:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:31:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:31:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:31:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:31:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:36:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:36:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:36:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:36:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:41:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:41:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:41:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:41:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:46:31 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:46:31 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:46:31 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 21:46:31 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 22:08:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 22:08:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 22:08:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 22:08:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 22:43:37 [WARN]: MongoDB disconnected {"metadata":{}}
+2025-03-29 22:43:47 [INFO]: MongoDB connected successfully {"metadata":{}}
+2025-03-29 23:03:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 23:03:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 23:03:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 23:03:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 23:40:41 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 23:40:41 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-29 23:40:41 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-29 23:40:41 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:18:50 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:18:50 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:18:50 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:18:50 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:23:50 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:23:50 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:23:50 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:23:50 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:44:24 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:44:24 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:44:24 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 00:44:24 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 01:04:01 [WARN]: MongoDB disconnected {"metadata":{}}
+2025-03-30 01:04:11 [INFO]: MongoDB connected successfully {"metadata":{}}
+2025-03-30 01:23:59 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 01:23:59 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 01:23:59 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 01:23:59 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 02:04:46 [WARN]: MongoDB disconnected {"metadata":{}}
+2025-03-30 02:04:57 [INFO]: MongoDB connected successfully {"metadata":{}}
+2025-03-30 02:41:14 [WARN]: MongoDB disconnected {"metadata":{}}
+2025-03-30 02:41:24 [INFO]: MongoDB connected successfully {"metadata":{}}
+2025-03-30 02:41:41 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 02:41:41 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 02:41:41 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 02:41:41 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:41:41 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:41:41 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:41:41 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:41:41 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:53:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:53:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:53:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:53:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:58:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:58:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:58:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 03:58:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:03:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:03:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:03:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:03:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:08:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:08:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:08:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:08:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:13:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:13:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:13:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:13:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:18:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:18:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:18:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:18:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:23:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:23:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:23:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:23:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:28:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:28:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:28:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:28:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:33:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:33:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:33:43 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:33:43 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:50:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:50:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:50:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:50:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:55:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:55:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:55:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 04:55:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:00:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:00:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:00:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:00:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:05:55 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:05:55 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:05:56 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:05:56 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:12:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:12:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:12:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:12:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:17:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:17:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:17:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:17:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:22:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:22:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:22:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:22:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:27:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:27:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:27:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:27:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:32:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:32:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:32:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:32:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:37:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:37:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:37:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:37:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:42:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:42:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:42:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:42:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:47:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:47:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:47:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:47:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:52:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:52:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:52:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:52:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:57:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:57:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:57:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 05:57:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:02:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:02:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:02:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:02:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:07:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:07:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:07:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:07:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:12:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:12:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:12:27 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:12:27 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:17:52 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:17:52 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:17:53 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:17:53 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:22:52 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:22:53 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:22:53 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:22:53 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:27:53 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:27:53 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:27:53 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:27:53 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:32:52 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:32:52 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:32:52 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:32:52 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:37:52 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:37:53 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:37:53 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:37:53 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:42:52 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:42:52 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:42:52 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:42:52 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:47:52 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:47:53 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:47:53 [INFO]: Incoming request: GET /api/economic/live {"metadata":{}}
+2025-03-30 06:47:53 [WARN]: Route not found: GET /api/economic/live {"metadata":{}}

@@ -1,0 +1,93 @@
+2025-03-29 17:44:39 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:39 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:42 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:42 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:43 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:43 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:51 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 17:44:51 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:13 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:13 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:15 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:15 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:32 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:32 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:34 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:34 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:37 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:37 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:52 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:52 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:54 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:08:54 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:26 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:26 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:28 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:28 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:28 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:28 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:35 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:35 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:47 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:47 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:51 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:09:51 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 18:39:37 [ERROR]: uncaughtException: Cannot find module 'axios'
+Require stack:
+- /Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/index.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/index.js
+Error: Cannot find module 'axios'
+Require stack:
+- /Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/index.js
+- /Users/dasuncharuka/Desktop/malupro1/server/src/index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)
+    at Function._load (node:internal/modules/cjs/loader:1070:27)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js:1:15)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32) {"metadata":{"error":{"code":"MODULE_NOT_FOUND","requireStack":["/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js","/Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js","/Users/dasuncharuka/Desktop/malupro1/server/src/routes/index.js","/Users/dasuncharuka/Desktop/malupro1/server/src/index.js"]},"stack":"Error: Cannot find module 'axios'\nRequire stack:\n- /Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js\n- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js\n- /Users/dasuncharuka/Desktop/malupro1/server/src/routes/index.js\n- /Users/dasuncharuka/Desktop/malupro1/server/src/index.js\n    at Function._resolveFilename (node:internal/modules/cjs/loader:1244:15)\n    at Function._load (node:internal/modules/cjs/loader:1070:27)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Module.require (node:internal/modules/cjs/loader:1335:12)\n    at require (node:internal/modules/helpers:136:16)\n    at Object.<anonymous> (/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js:1:15)\n    at Module._compile (node:internal/modules/cjs/loader:1562:14)\n    at Object..js (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)","exception":true,"date":"Sat Mar 29 2025 18:39:37 GMT+0530 (India Standard Time)","process":{"pid":37111,"uid":501,"gid":20,"cwd":"/Users/dasuncharuka/Desktop/malupro1/server/src","execPath":"/Users/dasuncharuka/.nvm/versions/node/v22.13.1/bin/node","version":"v22.13.1","argv":["/Users/dasuncharuka/.nvm/versions/node/v22.13.1/bin/node","/Users/dasuncharuka/Desktop/malupro1/server/src/index.js"],"memoryUsage":{"rss":85442560,"heapTotal":36470784,"heapUsed":23766104,"external":20396463,"arrayBuffers":18262287}},"os":{"loadavg":[3.421875,3.2265625,3.3896484375],"uptime":9656},"trace":[{"column":15,"file":"node:internal/modules/cjs/loader","function":"Function._resolveFilename","line":1244,"method":"_resolveFilename","native":false},{"column":27,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1070,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1335,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":136,"method":null,"native":false},{"column":15,"file":"/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js","function":null,"line":1,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1562,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Object..js","line":1699,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false}]}}
+2025-03-29 20:21:00 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:00 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:03 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:03 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:05 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:05 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:14 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:21:14 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:45:59 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:45:59 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:47:30 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:50:21 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:50:21 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:50:45 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:50:45 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:54:57 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:54:57 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:55:10 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:55:10 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:55:14 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 20:55:14 [ERROR]: Error in GET /api/data: Data.find is not a function {"metadata":{}}
+2025-03-29 21:05:36 [ERROR]: uncaughtException: Invalid or unexpected token
+/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js:378
+          description: 'New regulations affecting imports from Commonwealth countr
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid or unexpected token
+    at wrapSafe (node:internal/modules/cjs/loader:1512:18)
+    at Module._compile (node:internal/modules/cjs/loader:1534:20)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Module.require (node:internal/modules/cjs/loader:1335:12)
+    at require (node:internal/modules/helpers:136:16)
+    at Object.<anonymous> (/Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js:4:28) {"metadata":{"error":{},"stack":"/Users/dasuncharuka/Desktop/malupro1/server/src/controllers/economic.controller.js:378\n          description: 'New regulations affecting imports from Commonwealth countr\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\nSyntaxError: Invalid or unexpected token\n    at wrapSafe (node:internal/modules/cjs/loader:1512:18)\n    at Module._compile (node:internal/modules/cjs/loader:1534:20)\n    at Object..js (node:internal/modules/cjs/loader:1699:10)\n    at Module.load (node:internal/modules/cjs/loader:1313:32)\n    at Function._load (node:internal/modules/cjs/loader:1123:12)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)\n    at Module.require (node:internal/modules/cjs/loader:1335:12)\n    at require (node:internal/modules/helpers:136:16)\n    at Object.<anonymous> (/Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js:4:28)","exception":true,"date":"Sat Mar 29 2025 21:05:36 GMT+0530 (India Standard Time)","process":{"pid":54632,"uid":501,"gid":20,"cwd":"/Users/dasuncharuka/Desktop/malupro1/server/src","execPath":"/Users/dasuncharuka/.nvm/versions/node/v22.13.1/bin/node","version":"v22.13.1","argv":["/Users/dasuncharuka/.nvm/versions/node/v22.13.1/bin/node","/Users/dasuncharuka/Desktop/malupro1/server/src/index.js"],"memoryUsage":{"rss":85049344,"heapTotal":36470784,"heapUsed":24066168,"external":20396463,"arrayBuffers":18262287}},"os":{"loadavg":[3.4189453125,2.94873046875,3.12353515625],"uptime":18415},"trace":[{"column":18,"file":"node:internal/modules/cjs/loader","function":"wrapSafe","line":1512,"method":null,"native":false},{"column":20,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1534,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Object..js","line":1699,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1313,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Function._load","line":1123,"method":"_load","native":false},{"column":14,"file":"node:diagnostics_channel","function":"TracingChannel.traceSync","line":322,"method":"traceSync","native":false},{"column":24,"file":"node:internal/modules/cjs/loader","function":"wrapModuleLoad","line":217,"method":null,"native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1335,"method":"require","native":false},{"column":16,"file":"node:internal/modules/helpers","function":"require","line":136,"method":null,"native":false},{"column":28,"file":"/Users/dasuncharuka/Desktop/malupro1/server/src/routes/economic.routes.js","function":null,"line":4,"method":null,"native":false}]}}

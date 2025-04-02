@@ -1,4 +1,42 @@
+// server/src/controllers/data.controller.js
+
 const Data = require("../models/data.model");
+const logger = require("../utils/logger");
+
+// Get all revenue data
+exports.getRevenueData = async (req, res) => {
+  try {
+    const { companyId } = req.query;
+
+    // Build query - filter by company ID if provided
+    const query = companyId ? { company: companyId } : {};
+
+    // Verify Data is a valid model before using it
+    if (!Data || typeof Data.find !== "function") {
+      logger.error("Data model is not properly defined or imported");
+      return res.status(500).json({
+        success: false,
+        error: "Database model not properly initialized",
+      });
+    }
+
+    // Get data from database
+    const data = await Data.find(query).sort({ date: -1 });
+
+    return res.status(200).json({
+      success: true,
+      data,
+    });
+  } catch (error) {
+    logger.error(`Error fetching revenue data: ${error.message}`);
+    return res.status(500).json({
+      success: false,
+      error: error.message,
+    });
+  }
+};
+
+// Other controller methods...
 
 // @desc    Upload historical revenue data
 // @route   POST /api/data

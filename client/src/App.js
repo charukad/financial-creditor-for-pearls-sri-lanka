@@ -1,3 +1,5 @@
+// src/App.js
+
 import React from "react";
 import {
   BrowserRouter as Router,
@@ -5,49 +7,38 @@ import {
   Route,
   Navigate,
 } from "react-router-dom";
-import "./App.css";
-
-// Import pages
+import { AuthProvider } from "./context/AuthContext";
 import Landing from "./pages/Landing";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
-import CreateEvent from "./pages/CreateEvent"; // Import your CreateEvent component
-import NotFound from "./pages/NotFound";
+import PrivateRoute from "./components/common/PrivateRoute";
+import "./App.css";
 
-// Auth context
-import { AuthProvider } from "./context/AuthContext";
-
-// Import Debug component
-import Debug from "./pages/Debug";
-
-function App() {
+const App = () => {
   return (
+    // Note: AuthProvider is now inside the Router
     <Router>
       <AuthProvider>
-        <div className="App">
+        <div className="app-container">
           <Routes>
-            {/* Default landing page */}
             <Route path="/" element={<Landing />} />
-
-            {/* Authentication routes */}
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
-
-            {/* Dashboard and nested routes */}
-            <Route path="/dashboard/*" element={<Dashboard />} />
-
-            {/* Create event route */}
-            <Route path="/create-event" element={<CreateEvent />} />
-
-            {/* Redirect for incorrect URLs */}
+            <Route
+              path="/dashboard/*"
+              element={
+                <PrivateRoute>
+                  <Dashboard />
+                </PrivateRoute>
+              }
+            />
             <Route path="*" element={<Navigate to="/" replace />} />
-            <Route path="/debug" element={<Debug />} />
           </Routes>
         </div>
       </AuthProvider>
     </Router>
   );
-}
+};
 
 export default App;
